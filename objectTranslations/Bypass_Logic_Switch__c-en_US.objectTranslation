@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Bypass Logic Switch</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Bypass Logic Switch</value>
+    </caseValues>
+    <fields>
+        <label><!-- Bypass Trigger --></label>
+        <name>Bypass_Trigger__c</name>
+    </fields>
+    <fields>
+        <label><!-- Bypass Validation Rule --></label>
+        <name>Bypass_Validation_Rule__c</name>
+    </fields>
+    <fields>
+        <label><!-- Object To Bypass --></label>
+        <name>Object_To_Bypass__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
